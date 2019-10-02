@@ -1,0 +1,16 @@
+{
+  "name": "bower-package",
+  "version": "1.0.1",
+  "authors": [
+    "ledwc <le.sy.duc@sun-asterisk.com>"
+  ],
+  "description": "Package using for Project",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ducls-0951/bower-package.git",
+  "ignore": [
+    "README.md"
+  ]
