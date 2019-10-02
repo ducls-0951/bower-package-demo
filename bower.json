@@ -1,10 +1,10 @@
 {
-  "name": "bower-package",
-  "version": "1.1.8",
+  "name": "demo-bower",
+  "version": "1.0.1",
   "authors": [
     "ledwc <le.sy.duc@sun-asterisk.com>"
   ],
-  "description": "Package using for Project",
+  "description": "Framgia standard demo Bower",
   "main": "/",
   "keywords": [
     "fonticons"
@@ -14,3 +14,4 @@
   "ignore": [
     "README.md"
   ]
+}
